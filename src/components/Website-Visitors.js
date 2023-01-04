@@ -6,7 +6,6 @@ function Visitors() {
             <h2>821</h2>
             </div>
             <div className='graph'>
-                
             </div>
         </div>
     );
